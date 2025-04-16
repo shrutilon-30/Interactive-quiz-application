@@ -12,7 +12,30 @@ DURATION: 12 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-#DESCRIPTION : The Interactive Quiz Application is a fun and engaging web-based quiz designed for kids. This project provides a user-friendly platform where children can answer multiple-choice questions, receive instant feedback, and track their scores. The quiz is built using HTML, CSS, and JavaScript, making it fully interactive and visually appealing. With its colorful design, animations, and timer functionality, this quiz creates an enjoyable learning experience for young users.This quiz includes several exciting features to make learning fun. The timer encourages quick thinking by limiting the time for each question, while the jumping words effect on the title adds a playful touch. The quiz is designed with boxed questions and answer sections, ensuring clear visibility and engagement. Additionally, the colorful theme and smooth transitions make the interface attractive for kids. At the end of the quiz, users receive a motivational message based on their performance, inspiring them to either celebrate their success or try again.
+#DESCRIPTION :
+
+This is a fun and colorful **Quiz Application for Kids** built using **HTML, CSS, and JavaScript**. It displays multiple choice questions one by one with a timer and shows the final score with a congratulatory or motivational message.
+
+## 🔧 Tools & Technologies Used:
+- **HTML** – For the structure of the quiz
+- **CSS** – For styling the layout, buttons, and animations
+- **JavaScript** – For quiz logic, score tracking, timer, and interactivity
+
+## 🎮 Features:
+- 5 multiple choice quiz questions for kids
+- Timer for each question
+- Colorful design with smooth hover effects
+- Animated heading (jumping text effect)
+- Score system with congratulatory or "try again" message
+- Responsive layout that works on all devices
+- Logo and box design added for attractive appearance
+
+## 📁 Project Structure:
+- `index.html` – Main quiz structure
+- `style.css` – All the styling and effects
+- `script.js` – Quiz functionality and logic
+
+This project is perfect for beginners to understand basic web development using HTML, CSS, and JavaScript. ✨
 
 #OUTPUT : 
 
